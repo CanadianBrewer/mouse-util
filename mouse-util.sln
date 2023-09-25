@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mouse-util", "mouse-util\mouse-util.csproj", "{2AF8BB5B-E4DF-485B-B7A3-7BB0A8A2D42B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF8BB5B-E4DF-485B-B7A3-7BB0A8A2D42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF8BB5B-E4DF-485B-B7A3-7BB0A8A2D42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF8BB5B-E4DF-485B-B7A3-7BB0A8A2D42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF8BB5B-E4DF-485B-B7A3-7BB0A8A2D42B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
